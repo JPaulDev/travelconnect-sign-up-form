@@ -1,2 +1,2 @@
-# sign-up-form
+# travelconnect-sign-up-form
 A simple sign up form.
